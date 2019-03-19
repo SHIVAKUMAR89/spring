@@ -1,0 +1,66 @@
+package com.login;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class detailServlet
+ */
+@WebServlet("/detailServlet")
+public class detailServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public detailServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//response.getWriter().append("Served at: ").append(request.getContextPath());
+		PrintWriter pw=response.getWriter();
+		response.setContentType("text/html");
+		pw.print("<html>");
+		pw.print("<body>");
+		//pw.print("welcome"+request.getParameter("username"));
+		//pw.print("<script>");
+		pw.print("<table border=5>");
+		pw.print("<tr>");
+		pw.print("Employee name:"+request.getParameter("name"));
+		pw.print("<br>");
+		pw.print("Employee password:"+request.getParameter("password"));
+		pw.print("<br>");
+		pw.print("Employee gender:"+request.getParameter("gender"));
+		pw.print("<br>");
+		pw.print("Employee city:"+request.getParameter("city1"));
+		pw.print("<br>");
+		pw.print("Employee address:"+request.getParameter("address"));
+		//pw.print("</script>");
+		pw.print("</tr>");
+		pw.print("</table>");
+		pw.print("</html>");
+		pw.print("</body>");
+
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+	}
+
+}

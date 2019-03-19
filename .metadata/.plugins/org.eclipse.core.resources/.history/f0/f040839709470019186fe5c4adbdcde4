@@ -1,0 +1,9 @@
+package com.spring;
+
+public class SingletonEmployee {
+
+	public static void main(String[] args) {
+		
+		SingletonEmployee e= new SingletonEmployee();
+	}
+}

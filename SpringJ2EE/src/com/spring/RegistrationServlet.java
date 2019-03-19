@@ -1,0 +1,83 @@
+package com.spring;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.util.*;
+import java.util.HashMap;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletContext;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+/**
+ * Servlet implementation class RegistrationServlet
+ */
+@WebServlet("/RegistrationServlet")
+public class RegistrationServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public RegistrationServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	//	Connection con=Login.getConnection();
+		String userId= request.getParameter("userId");
+		String uname= request.getParameter("name");
+		String phoneNo= request.getParameter("phoneNo");
+		String gender=request.getParameter("gender");
+		String[] technologies= request.getParameterValues("technology");
+		String technology="";
+		if(technologies!=null) {
+		for(int i=0;i<technologies.length;i++) {
+			technology= technology+","+technologies[i];
+		}
+		}
+		
+		Customer customer = new Customer();
+		customer.setUserId(Integer.parseInt(userId));
+		customer.setName(uname);
+		customer.setPhoneNo(phoneNo);
+		customer.setGender(gender);
+		customer.setTechnologies(technology);
+
+		
+		
+		
+		
+		EmployeeDAO dao = new EmployeeDAO();
+		dao.addCustomer(customer);	
+		
+		List<LoginDetails> list=dao.getUserIds();
+		
+		HttpSession session = request.getSession();
+		
+		session.setAttribute("userids", list);
+		
+		RequestDispatcher rd = request.getRequestDispatcher("DisplayUsers.jsp");
+		rd.forward(request, response);
+			
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+	}
+
+}

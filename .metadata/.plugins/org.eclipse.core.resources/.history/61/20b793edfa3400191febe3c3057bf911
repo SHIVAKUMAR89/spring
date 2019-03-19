@@ -1,0 +1,65 @@
+package nsp;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.servlet.RequestDispatcher;
+
+public class Login {
+	
+public static Connection getConnection() {
+	try {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		//create the connection
+		Connection con= DriverManager.getConnection("jdbc:mysql://localhost:3306/db25","root","admin");
+		System.out.println("connected successfully");
+		return con;
+	} catch(ClassNotFoundException e)
+	{
+		e.printStackTrace();
+		return null;
+		
+	}catch(SQLException e) {
+		e.printStackTrace();
+		return null;
+			}
+	
+}
+public static boolean validate(String username, String password,Connection con) {
+	Boolean flag=false;
+	try {
+	String sql="select * from users where usrname=? and pwd=?";
+	PreparedStatement pstmst=con.prepareStatement(sql);
+	pstmst.setString(1,username);
+	pstmst.setString(2,password);
+	ResultSet rs=pstmst.executeQuery();
+	while(rs.next()) {
+		flag=true;
+		break;
+	}
+	return flag;
+	}catch(SQLException e) {
+		e.printStackTrace();
+		return flag;
+			}
+	//return true;
+}
+}
+	
+/*
+	if(result.next()) {
+		Object response;
+		response.sendRedirect("registration.jsp");
+	}
+	else {
+		request.setAttribute("errmsg","username and password are incorrect");
+				RequestDispatcher rd=request.getRequestDispatcher("/Login.java");
+		rd.forward(request, reponse);
+	}
+	
+}*/
+
+

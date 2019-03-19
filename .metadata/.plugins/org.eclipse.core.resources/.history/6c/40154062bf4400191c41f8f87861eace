@@ -1,0 +1,18 @@
+package com.spring;
+
+	import org.springframework.stereotype.Controller;  
+	import org.springframework.web.bind.annotation.RequestMapping;  
+	@Controller  
+	
+	public class HelloController { 
+		@RequestMapping("/helloworld")  
+	    public String display11()  
+	    {  
+	        return "helloworld.jsp";  
+	    }
+	@RequestMapping("/")  
+	 public String display(@RequestParam("id")int id){  
+        return "helloworld with id="+id;  
+    }
+
+	}  

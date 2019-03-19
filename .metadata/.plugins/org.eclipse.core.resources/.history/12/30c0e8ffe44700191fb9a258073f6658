@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class ReverseArrayString {
+		    		public static void main(String args[])
+		    		   {
+		    		      int a[]= {1,2,3,4}, rev = 0;
+		    		        
+		    		         for(i=)
+		    		     
+		    		      System.out.println("Reverse of the number is " +a[i]);
+		    		   }
+		    		}
+

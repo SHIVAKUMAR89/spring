@@ -1,0 +1,439 @@
+
+Feb 20, 2019 10:00:48.43 NEW SESSION
+Feb 20, 2019 10:00:48.43 [5932:4100:0220/100048.423:ERROR:browser_process_sub_thread.cc(209)] Waited 332 ms for network service
+Feb 20, 2019 12:23:52.55 [2760:4624:0220/122352.502:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Feb 20, 2019 12:23:52.55 [2760:4624:0220/122352.503:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Feb 20, 2019 12:23:52.56 [2760:4624:0220/122352.503:ERROR:disk_cache.cc(184)] Unable to create cache
+Feb 20, 2019 12:23:52.56 [2760:4624:0220/122352.503:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Feb 20, 2019 13:47:00.37 [2840:3244:0220/134659.355:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 13:47:22.65 [2840:3244:0220/134722.656:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 13:48:07.83 [2840:3244:0220/134807.818:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 13:49:34.12 [2840:3244:0220/134934.122:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 13:52:28.82 [2840:3244:0220/135228.828:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 13:58:06.39 [2840:3244:0220/135806.398:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 14:08:06.52 [2840:3244:0220/140806.494:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 14:18:06.88 [2840:3244:0220/141806.838:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 14:28:06.95 [2840:3244:0220/142806.951:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 20, 2019 14:37:38.49 [2840:2492:0220/143738.421:ERROR:browser_process_sub_thread.cc(209)] Waited 3080 ms for network service
+
+Feb 22, 2019 15:00:10.43 NEW SESSION
+Feb 22, 2019 15:00:10.43 [8092:6664:0222/150010.401:ERROR:browser_process_sub_thread.cc(209)] Waited 453 ms for network service
+Feb 22, 2019 18:07:01.98 [7252:456:0222/180700.993:ERROR:browser_process_sub_thread.cc(209)] Waited 1362 ms for network service
+
+Feb 23, 2019 24:48:56.81 NEW SESSION
+Feb 23, 2019 24:48:56.90 [5060:4848:0223/004855.994:ERROR:browser_process_sub_thread.cc(209)] Waited 213 ms for network service
+Feb 23, 2019 01:39:13.24 [6672:4300:0223/013855.617:ERROR:browser_process_sub_thread.cc(209)] Waited 758 ms for network service
+
+Feb 23, 2019 09:46:21.94 NEW SESSION
+Feb 23, 2019 09:46:24.53 [4804:2776:0223/094616.956:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 09:46:39.40 [4804:2776:0223/094639.406:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 09:47:22.08 [4804:2776:0223/094722.031:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 09:48:57.43 [4804:2776:0223/094857.432:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 09:52:44.14 [4804:2776:0223/095244.139:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Feb 23, 2019 11:05:05.05 NEW SESSION
+Feb 23, 2019 11:05:05.09 [7488:6432:0223/110504.381:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:05:30.37 [7488:6432:0223/110530.375:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:06:27.09 [7488:6432:0223/110627.090:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:08:14.89 [7488:6432:0223/110814.883:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:12:08.28 [7488:6432:0223/111208.283:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:19:35.71 [7488:6432:0223/111935.709:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:29:35.74 [7488:6432:0223/112935.713:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:39:35.79 [7488:6432:0223/113935.721:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:49:35.76 [7488:6432:0223/114935.762:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 11:59:35.77 [7488:6432:0223/115935.771:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 12:09:35.79 [7488:6432:0223/120935.780:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 12:19:36.35 [7488:6432:0223/121936.094:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 12:39:17.24 [7488:6432:0223/123916.482:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 12:49:16.79 [7488:6432:0223/124916.747:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 12:59:16.86 [7488:6432:0223/125916.775:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 13:09:17.37 [7488:6432:0223/130917.238:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 13:50:17.15 [7488:6432:0223/135016.718:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 16:44:21.63 [7488:6432:0223/164408.438:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 16:44:37.67 [7488:6432:0223/164428.896:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 17:23:30.18 [7488:6432:0223/172329.458:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 23, 2019 17:28:59.21 [7488:7512:0223/172859.105:ERROR:browser_process_sub_thread.cc(209)] Waited 2867 ms for network service
+
+Feb 25, 2019 10:05:36.73 NEW SESSION
+Feb 25, 2019 10:05:36.82 [9288:5636:0225/100536.340:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 25, 2019 10:06:05.84 [9288:5636:0225/100605.844:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 25, 2019 10:06:48.31 [9288:5636:0225/100648.311:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 25, 2019 10:08:31.24 [9288:5636:0225/100831.240:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Feb 26, 2019 10:18:15.05 NEW SESSION
+Feb 26, 2019 10:18:15.05 [9536:6308:0226/101814.961:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Feb 26, 2019 10:18:15.12 [9536:6308:0226/101814.961:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Feb 26, 2019 10:18:15.12 [9536:6308:0226/101814.961:ERROR:disk_cache.cc(184)] Unable to create cache
+Feb 26, 2019 10:18:15.12 [9536:6308:0226/101814.961:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Feb 26, 2019 16:06:30.23 NEW SESSION
+Feb 26, 2019 16:06:31.68 [3028:9780:0226/160624.191:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 26, 2019 16:06:45.91 [3028:9780:0226/160645.915:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 26, 2019 16:07:32.47 [3028:9780:0226/160732.355:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 26, 2019 16:08:56.88 [3028:9780:0226/160856.881:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 26, 2019 16:12:04.09 [3028:9780:0226/161200.224:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Feb 28, 2019 10:16:16.40 NEW SESSION
+Feb 28, 2019 10:16:16.40 [3448:7584:0228/101616.266:ERROR:browser_process_sub_thread.cc(209)] Waited 605 ms for network service
+Feb 28, 2019 17:31:24.39 [4432:11352:0228/173124.297:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Feb 28, 2019 17:31:24.97 [4432:11352:0228/173124.297:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Feb 28, 2019 17:31:24.97 [4432:11352:0228/173124.297:ERROR:disk_cache.cc(184)] Unable to create cache
+Feb 28, 2019 17:31:24.98 [4432:11352:0228/173124.297:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Feb 28, 2019 17:31:38.98 Opening in existing browser session.
+
+Mar 01, 2019 14:11:50.93 NEW SESSION
+Mar 01, 2019 14:11:55.53 [2232:9188:0301/141125.778:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:11:58.48 [2232:9188:0301/141158.475:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:12:40.60 [2232:9188:0301/141240.606:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:14:05.75 [2232:9188:0301/141405.753:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:17:55.54 [2232:9188:0301/141755.499:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:25:11.09 [2232:9188:0301/142511.031:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:35:11.10 [2232:9188:0301/143511.072:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 14:45:11.20 [2232:9188:0301/144511.143:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:10:56.49 [2232:9188:0301/171056.360:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:11:25.76 [2232:9188:0301/171125.760:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:12:15.63 [2232:9188:0301/171215.636:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:13:38.77 [2232:9188:0301/171338.778:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:17:12.12 [2232:9188:0301/171712.129:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:25:10.29 [2232:9188:0301/172510.294:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:35:23.21 [2232:9188:0301/173523.204:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:45:23.21 [2232:9188:0301/174523.212:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 17:55:23.21 [2232:9188:0301/175523.219:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 01, 2019 18:05:23.22 [2232:9188:0301/180523.226:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 01, 2019 23:43:51.31 NEW SESSION
+Mar 01, 2019 23:43:51.31 [6704:7064:0301/234351.047:ERROR:CONSOLE(279)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome://history') does not match the recipient window's origin ('https://www.google.com').", source: chrome-search://most-visited/single.js (279)
+Mar 02, 2019 01:37:54.80 [6704:5660:0302/013754.629:ERROR:browser_process_sub_thread.cc(209)] Waited 6023 ms for network service
+
+Mar 02, 2019 10:16:03.39 NEW SESSION
+Mar 02, 2019 10:16:03.42 [3372:8156:0302/101603.012:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:16:23.75 [3372:8156:0302/101623.755:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:17:12.52 [3372:8156:0302/101712.525:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:18:58.36 [3372:8156:0302/101858.365:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:21:59.34 [3372:8156:0302/102159.344:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:27:53.74 [3372:8156:0302/102753.739:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:37:53.75 [3372:8156:0302/103753.748:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:47:53.75 [3372:8156:0302/104753.756:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 10:56:48.19 [948:4052:0302/105648.094:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 02, 2019 10:56:48.32 [948:4052:0302/105648.094:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 02, 2019 10:56:48.33 [948:4052:0302/105648.094:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 02, 2019 10:56:48.33 [948:4052:0302/105648.094:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 02, 2019 10:57:04.39 Opening in existing browser session.
+Mar 02, 2019 10:57:53.97 [3372:8156:0302/105753.975:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 14:46:52.42 [3372:8156:0302/144636.980:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 16:52:51.37 [3372:8156:0302/165251.132:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 16:53:30.12 [3372:8156:0302/165330.127:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 16:53:51.54 [6396:8792:0302/165351.548:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 02, 2019 16:53:51.54 [6396:8792:0302/165351.548:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 02, 2019 16:53:51.55 [6396:8792:0302/165351.548:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 02, 2019 16:53:51.55 [6396:8792:0302/165351.548:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 02, 2019 16:53:57.81 Opening in existing browser session.
+Mar 02, 2019 16:54:29.19 [3372:8156:0302/165429.196:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 16:56:15.08 [3372:8156:0302/165615.084:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 16:59:39.23 [3372:8156:0302/165939.238:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 17:07:22.84 [3372:8156:0302/170722.843:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 17:17:23.06 [3372:8156:0302/171722.973:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 02, 2019 17:27:22.98 [3372:8156:0302/172722.982:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 06, 2019 11:08:37.61 NEW SESSION
+Mar 06, 2019 11:08:37.68 [8480:7548:0306/110837.285:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:08:58.57 [8480:7548:0306/110858.574:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:09:49.85 [8480:7548:0306/110949.849:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:11:11.85 [8480:7548:0306/111111.859:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:13:57.05 [8480:7548:0306/111357.032:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:21:55.86 [8480:7548:0306/112155.808:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:31:55.81 [8480:7548:0306/113155.815:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:41:55.86 [8480:7548:0306/114155.859:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 11:51:55.91 [8480:7548:0306/115155.865:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 14:05:32.50 [8480:7548:0306/140532.348:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 14:05:53.92 [8480:7548:0306/140553.921:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 14:06:44.79 [8480:7548:0306/140644.795:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 06, 2019 14:19:05.59 [8480:7548:0306/141905.595:ERROR:CONSOLE(279)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://hibernate-distribution3.6.4.final') does not match the recipient window's origin ('https://www.google.com').", source: chrome-search://most-visited/single.js (279)
+
+Mar 06, 2019 23:29:54.75 NEW SESSION
+Mar 06, 2019 23:29:54.75 [6636:7924:0306/232954.661:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 06, 2019 23:29:54.81 [6636:7924:0306/232954.661:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 06, 2019 23:29:54.81 [6636:7924:0306/232954.661:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 06, 2019 23:29:54.81 [6636:7924:0306/232954.661:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 06, 2019 23:30:08.49 Opening in existing browser session.
+
+Mar 07, 2019 10:05:03.40 NEW SESSION
+Mar 07, 2019 10:05:08.16 [6832:4592:0307/100438.118:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 10:05:09.70 [6832:4592:0307/100502.759:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 10:06:02.80 [6832:4592:0307/100602.750:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 10:07:29.68 [6832:4592:0307/100729.654:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 10:10:28.47 [6832:4592:0307/101028.470:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 11:20:26.10 [8380:6564:0307/112025.862:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 07, 2019 11:20:26.12 [8380:6564:0307/112025.862:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 07, 2019 11:20:26.12 [8380:6564:0307/112025.862:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 07, 2019 11:20:26.13 [8380:6564:0307/112025.862:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 07, 2019 11:20:57.16 Opening in existing browser session.
+Mar 07, 2019 11:32:12.98 [6832:4592:0307/113212.802:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 11:32:38.83 [6832:4592:0307/113238.834:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 11:33:20.15 [6832:4592:0307/113320.109:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 11:35:14.92 [6832:4592:0307/113514.921:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 14:13:21.21 [6832:4592:0307/141315.816:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 14:13:36.97 [6832:4592:0307/141336.923:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 14:14:34.09 [6832:4592:0307/141434.086:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 14:16:33.62 [6832:4592:0307/141632.885:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 07, 2019 15:05:11.61 [6832:5588:0307/150511.372:ERROR:component_installer.cc(125)] Move failed.: Access is denied. (0x5)
+Mar 07, 2019 15:49:47.94 [10592:9708:0307/154947.868:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 07, 2019 15:49:48.13 [10592:9708:0307/154947.868:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 07, 2019 15:49:48.14 [10592:9708:0307/154947.868:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 07, 2019 15:49:48.56 [10592:9708:0307/154947.868:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 07, 2019 15:50:00.88 Opening in existing browser session.
+Mar 07, 2019 16:52:56.61 [3392:3892:0307/165254.475:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 07, 2019 16:52:59.31 [3392:3892:0307/165254.475:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 07, 2019 16:52:59.32 [3392:3892:0307/165254.475:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 07, 2019 16:52:59.32 [3392:3892:0307/165254.475:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Mar 07, 2019 22:59:17.86 NEW SESSION
+Mar 07, 2019 22:59:17.86 [0307/225917.804:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 07, 2019 23:00:22.72 [8240:8576:0307/230022.593:ERROR:browser_process_sub_thread.cc(209)] Waited 549 ms for network service
+Mar 07, 2019 23:09:17.46 [0307/230916.776:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 07, 2019 23:15:18.61 [0307/231517.784:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 07, 2019 23:16:31.51 [0307/231629.908:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 07, 2019 23:20:15.44 [0307/232014.455:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 07, 2019 23:32:01.43 [0307/233159.769:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 07, 2019 23:41:01.10 [0307/234100.831:ERROR:crash_report_database_win.cc(428)] unexpected header
+
+Mar 08, 2019 10:03:46.47 NEW SESSION
+Mar 08, 2019 10:03:46.47 [0308/100346.407:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 10:13:46.47 [0308/101346.443:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 10:13:46.70 [0308/101346.445:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 10:14:43.75 [6536:7612:0308/101443.750:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 10:15:12.37 [6536:7612:0308/101512.372:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 10:16:00.23 [6536:7612:0308/101600.236:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 10:17:39.67 [6536:7612:0308/101739.676:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 10:18:46.47 [0308/101846.479:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 10:20:44.57 [6536:7612:0308/102044.570:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 10:28:35.52 [6536:7612:0308/102835.520:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 10:33:46.51 [0308/103346.509:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 10:48:46.64 [0308/104846.589:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 11:03:47.12 [0308/110346.896:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 11:18:47.94 [0308/111847.744:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 11:33:47.98 [0308/113347.961:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 11:48:48.10 [0308/114848.032:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 12:03:50.27 [0308/120348.992:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 12:18:50.80 [0308/121850.197:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 12:33:51.14 [0308/123351.100:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 12:48:51.27 [0308/124851.201:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 12:58:18.43 [0308/125818.431:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 12:59:17.82 [7524:5752:0308/125917.819:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 08, 2019 12:59:17.82 [7524:5752:0308/125917.820:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 08, 2019 12:59:17.82 [7524:5752:0308/125917.822:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 08, 2019 12:59:17.82 [7524:5752:0308/125917.823:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 08, 2019 12:59:34.52 Opening in existing browser session.
+Mar 08, 2019 13:03:51.72 [0308/130351.390:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 13:18:52.53 [0308/131852.295:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 14:05:44.26 [6536:7612:0308/140544.268:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 14:06:13.12 [6536:7612:0308/140613.089:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 14:07:11.98 [6536:7612:0308/140711.984:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 14:09:05.70 [6536:7612:0308/140905.705:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 14:12:24.34 [6536:7612:0308/141224.347:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 08, 2019 14:17:12.00 [0308/141711.970:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 14:32:14.54 [0308/143213.178:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 14:47:13.33 [0308/144713.240:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 15:02:22.14 [0308/150213.274:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 15:17:13.64 [0308/151713.286:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 15:17:31.09 [0308/151731.095:ERROR:crash_report_database_win.cc(428)] unexpected header
+Mar 08, 2019 17:20:32.05 [5860:5308:0308/172030.994:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 08, 2019 17:20:32.23 [5860:5308:0308/172030.995:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 08, 2019 17:20:32.23 [5860:5308:0308/172030.995:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 08, 2019 17:20:32.23 [5860:5308:0308/172030.995:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Mar 08, 2019 21:16:15.12 NEW SESSION
+Mar 08, 2019 21:16:15.22 [2388:2160:0308/211612.404:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 08, 2019 21:16:15.55 [2388:2160:0308/211612.405:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 08, 2019 21:16:15.55 [2388:2160:0308/211612.405:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 08, 2019 21:16:15.55 [2388:2160:0308/211612.405:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 08, 2019 21:16:29.00 Opening in existing browser session.
+Mar 08, 2019 22:43:23.37 [5916:8296:0308/224322.978:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 08, 2019 22:43:26.44 [5916:8296:0308/224322.979:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 08, 2019 22:43:26.44 [5916:8296:0308/224322.979:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 08, 2019 22:43:26.44 [5916:8296:0308/224322.979:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 08, 2019 22:43:26.45 Opening in existing browser session.
+
+Mar 08, 2019 23:11:02.31 NEW SESSION
+Mar 08, 2019 23:11:02.31 [6348:3128:0308/231102.170:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 08, 2019 23:11:02.44 [6348:3128:0308/231102.170:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 08, 2019 23:11:02.49 [6348:3128:0308/231102.170:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 08, 2019 23:11:02.49 [6348:3128:0308/231102.170:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 08, 2019 23:11:08.79 [6348:3128:0308/231108.797:ERROR:browser_process_sub_thread.cc(209)] Waited 475 ms for network service
+Mar 08, 2019 23:11:15.22 Opening in existing browser session.
+Mar 08, 2019 23:34:18.63 [1832:5292:0308/233417.873:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 08, 2019 23:34:18.75 [1832:5292:0308/233417.874:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 08, 2019 23:34:18.75 [1832:5292:0308/233417.874:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 08, 2019 23:34:18.75 [1832:5292:0308/233417.874:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 24:14:57.49 [5580:5908:0309/001456.860:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 24:14:57.54 [5580:5908:0309/001456.861:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 24:14:57.54 [5580:5908:0309/001456.861:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 24:14:57.54 [5580:5908:0309/001456.861:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 24:15:10.65 Opening in existing browser session.
+Mar 09, 2019 01:15:18.49 [7868:9184:0309/011518.110:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 01:15:20.27 [7868:9184:0309/011518.111:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 01:15:20.27 [7868:9184:0309/011518.111:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 01:15:20.27 [7868:9184:0309/011518.111:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Mar 09, 2019 09:44:32.12 NEW SESSION
+Mar 09, 2019 09:44:32.12 [2976:5372:0309/094432.045:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 09:44:32.19 [2976:5372:0309/094432.045:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 09:44:32.19 [2976:5372:0309/094432.045:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 09:44:32.19 [2976:5372:0309/094432.045:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 09:44:52.88 Opening in existing browser session.
+Mar 09, 2019 12:19:04.21 [3820:1652:0309/121903.429:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 12:19:04.28 [3820:1652:0309/121903.429:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 12:19:04.28 [3820:1652:0309/121903.429:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 12:19:04.28 [3820:1652:0309/121903.429:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 12:19:12.91 Opening in existing browser session.
+Mar 09, 2019 13:17:47.34 [9652:9508:0309/131747.201:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 13:17:47.69 [9652:9508:0309/131747.201:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 13:17:47.85 [9652:9508:0309/131747.201:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 13:17:48.05 [9652:9508:0309/131747.201:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 14:56:11.23 [2420:1248:0309/145610.949:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 14:56:11.78 [2420:1248:0309/145610.949:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 14:56:11.78 [2420:1248:0309/145610.949:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 14:56:11.79 [2420:1248:0309/145610.949:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 14:56:31.10 Opening in existing browser session.
+Mar 09, 2019 15:06:59.65 [10176:8220:0309/150659.633:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 15:06:59.79 [10176:8220:0309/150659.634:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 15:06:59.80 [10176:8220:0309/150659.634:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 15:06:59.80 [10176:8220:0309/150659.634:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 15:26:20.61 [4504:5536:0309/152620.412:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 15:26:20.66 [4504:5536:0309/152620.413:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 15:26:20.66 [4504:5536:0309/152620.413:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 15:26:20.66 [4504:5536:0309/152620.413:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 15:26:32.26 Opening in existing browser session.
+Mar 09, 2019 15:45:40.42 [2728:3300:0309/154540.310:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 09, 2019 15:45:41.44 [2728:3300:0309/154540.310:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 09, 2019 15:45:41.44 [2728:3300:0309/154540.310:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 09, 2019 15:45:41.44 [2728:3300:0309/154540.310:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 09, 2019 15:48:04.30 Opening in existing browser session.
+
+Mar 09, 2019 17:31:42.19 NEW SESSION
+Mar 09, 2019 17:31:42.40 [6948:4504:0309/173141.142:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 09, 2019 17:32:04.53 [6948:4504:0309/173204.532:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 09, 2019 17:33:02.71 [6948:4504:0309/173302.644:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 09, 2019 17:34:29.16 [6948:4504:0309/173429.162:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 09, 2019 17:38:26.61 [6948:4504:0309/173826.599:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 09, 2019 17:44:38.87 [6948:4504:0309/174438.876:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 10, 2019 24:07:32.44 NEW SESSION
+Mar 10, 2019 24:07:32.48 [8672:1708:0310/000731.989:ERROR:browser_process_sub_thread.cc(209)] Waited 1498 ms for network service
+
+Mar 10, 2019 12:13:27.50 NEW SESSION
+Mar 10, 2019 12:13:27.64 [3960:10088:0310/121323.484:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 10, 2019 12:13:27.78 [3960:10088:0310/121323.484:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 10, 2019 12:13:27.78 [3960:10088:0310/121323.484:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 10, 2019 12:13:27.78 [3960:10088:0310/121323.484:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 10, 2019 12:13:44.58 Opening in existing browser session.
+Mar 10, 2019 12:52:55.53 [1420:4496:0310/125255.159:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 10, 2019 12:52:55.74 [1420:4496:0310/125255.159:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 10, 2019 12:52:55.75 [1420:4496:0310/125255.159:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 10, 2019 12:52:55.75 [1420:4496:0310/125255.159:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 10, 2019 12:53:28.42 Opening in existing browser session.
+Mar 10, 2019 13:17:48.67 [10208:3488:0310/131748.477:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 13:18:23.79 [10208:3488:0310/131823.796:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 13:19:21.54 [10208:3488:0310/131921.545:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 13:21:19.55 [5500:7648:0310/132119.556:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 10, 2019 13:21:19.71 [5500:7648:0310/132119.556:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 10, 2019 13:21:19.71 [5500:7648:0310/132119.556:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 10, 2019 13:21:19.72 [5500:7648:0310/132119.556:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 10, 2019 13:21:22.40 [10208:3488:0310/132122.396:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 13:21:26.70 Opening in existing browser session.
+Mar 10, 2019 13:24:22.72 [10208:3488:0310/132422.704:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 14:51:04.50 [10208:3488:0310/145103.518:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 18:23:12.91 [10208:3488:0310/182312.410:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 10, 2019 18:36:25.19 [6604:2744:0310/183625.195:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 10, 2019 18:36:25.60 [6604:2744:0310/183625.195:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 10, 2019 18:36:25.60 [6604:2744:0310/183625.195:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 10, 2019 18:36:25.61 [6604:2744:0310/183625.195:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+
+Mar 11, 2019 10:17:47.32 NEW SESSION
+Mar 11, 2019 10:17:47.32 [12092:1808:0311/101747.127:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 11, 2019 10:17:47.60 [12092:1808:0311/101747.133:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 11, 2019 10:17:47.61 [12092:1808:0311/101747.133:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 11, 2019 10:17:47.61 [12092:1808:0311/101747.133:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 11, 2019 10:17:52.85 Opening in existing browser session.
+Mar 11, 2019 10:19:30.94 [1944:10756:0311/101930.769:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:19:57.51 [1944:10756:0311/101957.470:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:20:48.85 [1944:10756:0311/102048.851:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:22:16.15 [1944:10756:0311/102216.108:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:25:03.45 [1944:10756:0311/102503.454:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:30:35.08 [1944:10756:0311/103035.079:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:40:35.08 [1944:10756:0311/104035.087:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 10:50:35.24 [1944:10756:0311/105035.108:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 11:00:35.29 [1944:10756:0311/110035.162:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 11:10:35.21 [1944:10756:0311/111035.180:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 11:20:35.27 [1944:10756:0311/112035.213:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 11:30:35.22 [1944:10756:0311/113035.223:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 11:40:35.24 [1944:10756:0311/114035.247:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 12:47:35.79 [236:8484:0311/124735.508:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 11, 2019 12:47:35.89 [236:8484:0311/124735.509:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 11, 2019 12:47:35.89 [236:8484:0311/124735.509:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 11, 2019 12:47:35.89 [236:8484:0311/124735.509:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 11, 2019 12:47:58.02 Opening in existing browser session.
+Mar 11, 2019 12:57:58.75 [1944:10756:0311/125758.662:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 12:58:19.30 [1944:10756:0311/125819.308:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 12:59:16.61 [1944:10756:0311/125916.615:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 13:00:39.45 [1944:10756:0311/130039.449:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 13:04:03.43 [1944:10756:0311/130403.321:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 13:11:01.88 [1944:10756:0311/131101.852:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 13:40:56.18 [5208:10484:0311/134055.984:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 11, 2019 13:40:56.50 [5208:10484:0311/134055.984:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 11, 2019 13:40:56.51 [5208:10484:0311/134055.984:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 11, 2019 13:40:56.51 [5208:10484:0311/134055.984:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 11, 2019 13:41:06.09 Opening in existing browser session.
+Mar 11, 2019 14:36:21.57 [1944:10756:0311/143620.618:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 14:36:53.44 [1944:10756:0311/143653.446:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 14:37:36.42 [1944:10756:0311/143736.419:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 14:39:18.80 [1944:10756:0311/143918.805:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 14:42:42.37 [1944:10756:0311/144242.378:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 14:49:54.00 [1944:10756:0311/144953.991:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 14:59:54.08 [1944:10756:0311/145954.005:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 15:09:54.05 [1944:10756:0311/150954.011:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 15:19:54.11 [1944:10756:0311/151954.024:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 15:29:54.03 [1944:10756:0311/152954.030:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 15:39:54.11 [1944:10756:0311/153954.045:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 15:47:32.02 [1944:10756:0311/154732.021:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Connection failed (-106).
+Mar 11, 2019 15:49:54.05 [1944:10756:0311/154954.052:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 16:08:23.98 [1944:10756:0311/160821.271:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 16:18:21.35 [1944:10756:0311/161821.295:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 16:28:21.32 [1944:10756:0311/162821.319:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 16:38:21.33 [1944:10756:0311/163821.327:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 11, 2019 17:02:42.52 [1944:10756:0311/170242.520:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 12, 2019 10:50:25.90 NEW SESSION
+Mar 12, 2019 10:50:25.92 [10952:2080:0312/105025.450:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 10:50:46.75 [10952:2080:0312/105046.758:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 10:51:34.74 [10952:2080:0312/105134.747:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 10:53:10.60 [10952:2080:0312/105310.603:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 10:57:08.22 [10952:2080:0312/105708.226:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 11:03:11.73 [10952:2080:0312/110311.737:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 11:13:12.25 [10952:2080:0312/111311.874:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 11:23:11.89 [10952:2080:0312/112311.889:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 11:33:11.89 [10952:2080:0312/113311.895:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 11:43:11.90 [10952:2080:0312/114311.899:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 11:53:11.90 [10952:2080:0312/115311.904:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Mar 12, 2019 12:03:11.90 [10952:2080:0312/120311.907:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Mar 12, 2019 15:26:46.11 NEW SESSION
+Mar 12, 2019 15:26:46.32 [5384:7388:0312/152646.037:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 12, 2019 15:26:46.68 [5384:7388:0312/152646.037:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 12, 2019 15:26:46.68 [5384:7388:0312/152646.037:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 12, 2019 15:26:46.68 [5384:7388:0312/152646.037:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 12, 2019 15:27:07.37 Opening in existing browser session.
+
+Mar 13, 2019 14:27:13.29 NEW SESSION
+Mar 13, 2019 14:27:13.34 [1292:3208:0313/142712.026:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 13, 2019 14:27:13.47 [1292:3208:0313/142712.026:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 13, 2019 14:27:13.53 [1292:3208:0313/142712.026:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 13, 2019 14:27:13.53 [1292:3208:0313/142712.027:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 13, 2019 14:27:22.01 Opening in existing browser session.
+
+Mar 13, 2019 15:58:53.76 NEW SESSION
+Mar 13, 2019 15:58:53.76 [2348:7736:0313/155852.100:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+Mar 13, 2019 15:58:53.85 [2348:7736:0313/155852.100:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\Shiv\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Mar 13, 2019 15:58:53.85 [2348:7736:0313/155852.100:ERROR:disk_cache.cc(184)] Unable to create cache
+Mar 13, 2019 15:58:53.85 [2348:7736:0313/155852.100:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Mar 13, 2019 15:59:27.84 Opening in existing browser session.

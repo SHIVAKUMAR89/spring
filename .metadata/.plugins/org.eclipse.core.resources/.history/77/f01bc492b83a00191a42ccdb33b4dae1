@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+
+    <title>Login LMS</title>
+</head>
+<body>
+  <script>
+    function AdminDet() {
+      document.getElementById("user_login").value = "admin";
+      document.getElementById("user_pass").value = "1234567890";
+      document.getElementById("wp-submit").click();
+      return false;
+    }
+    function StudentDet() {
+      document.getElementById("user_login").value = "user1@gmail.com";
+      document.getElementById("user_pass").value = "pwd1";
+      document.getElementById("wp-submit").click();
+      return false;
+    }
+
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+package login;
+
+public class UserDetail {
+	private String uname;
+	private  String gender;
+	private  String[] cities;
+	public String getName() {
+		return this.uname;
+		
+	}
+	public void setName(String uname) {
+		this.uname=uname;
+		
+	}
+	public String getGender() {
+		return this.gender;
+		
+	}
+	public void setGender(String gender) {
+		this.gender=gender;
+		
+	}
+	public String[] getCities() {
+		return this.cities;
+		
+	}
+	public void setCities(String[] arr) {
+		this.cities=arr;
+		
+	}
+
+}

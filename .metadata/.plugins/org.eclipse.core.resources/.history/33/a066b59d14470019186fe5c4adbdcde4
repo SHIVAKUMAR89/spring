@@ -1,0 +1,94 @@
+package com.spring;
+
+public class SingletonEmployee {
+
+
+	 static int Counter=0;
+	private String name;
+	static SingletonEmployee st=null;
+	
+	private SingletonEmployee() {
+		
+	}
+	
+	public static SingletonEmployee getSt() {
+		if(st==null)
+		{
+			st=new SingletonEmployee();
+			Counter++;
+			
+		}
+		return st;
+		
+	}
+	
+	
+	SingletonEmployee(String name){
+		this.name=name;
+		Counter++;
+	}
+	
+	public String getName() {
+		return name;
+	}
+
+
+
+
+
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+
+
+
+
+
+	public static int getCounter() {
+		return Counter;
+	}
+
+
+
+
+
+
+	public static void setCounter(int counter) {
+		Counter = counter;
+	}
+
+	
+	public static SingletonEmployee getObject(String name) {
+		if(Counter==0)
+			return new SingletonEmployee(name);
+		else
+			return null;
+	}
+	
+	public static SingletonEmployee getSt() {
+		if(st==null)
+		{
+			st=new SingletonEmployee();
+			Counter++;
+			
+		}
+		return st;
+		
+	}
+
+	
+	public void display() {
+		// TODO Auto-generated method stub
+		//System.out.println("employee");
+		System.out.println("name=" + this.name);
+		System.out.println(" counter=" +Counter);
+
+		
+		
+		
+		
+		
+	}
+}

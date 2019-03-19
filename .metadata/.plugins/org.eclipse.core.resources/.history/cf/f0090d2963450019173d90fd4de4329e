@@ -1,0 +1,86 @@
+package com.spring;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+
+public class LoginDAO {
+	
+
+
+	public static Connection getConnection() {
+			
+			try {
+				//load the driver
+				Class.forName("com.mysql.cj.jdbc.Driver");
+				
+				//create the connection
+				Connection con = DriverManager.getConnection
+					("jdbc:mysql://localhost:3306/db_spring","root","admin");
+				System.out.println("Connected");
+				return con;
+			
+			
+			}
+			catch (ClassNotFoundException | SQLException e) {
+				e.printStackTrace();
+				return null;
+			}
+				
+		}
+
+	
+	
+	public static void insertData(String username,String password,Connection con) {
+		
+		String sq="insert into users values(?,?,?,?,?,?,?,?)";
+		PreparedStatement p;
+		
+		try {
+			p = con.prepareStatement(sq);
+			p.setString(1,login.getUsername());
+			p.setString(2,login.getPassword());
+			
+			p.executeUpdate();
+			
+			
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	public static boolean validateUser(String username, String password, Connection con) {
+		boolean flag=false;
+		
+		try {
+			
+			String sq="select * from users ";
+			PreparedStatement p;
+			p = con.prepareStatement(sq);
+			ResultSet rs=p.executeQuery();
+			
+			while(rs.next()) {
+				if((username.equals(rs.getString(1))) && (password.equals(rs.getString(2)))) {
+				flag= true;
+				
+				}
+			}
+			p.close();
+			con.close();
+			return flag;
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			return false;
+		}
+		
+	}
+	
+		
+}

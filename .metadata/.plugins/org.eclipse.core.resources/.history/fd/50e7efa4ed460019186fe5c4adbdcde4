@@ -1,0 +1,15 @@
+package examplespring;
+
+public class Employee {
+
+	public void display() {
+		// TODO Auto-generated method stub
+		System.out.println("employee");
+	}
+
+	
+	
+	
+	
+	
+}

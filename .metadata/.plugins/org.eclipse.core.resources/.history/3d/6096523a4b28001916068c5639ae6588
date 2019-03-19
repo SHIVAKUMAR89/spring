@@ -1,0 +1,10 @@
+package Exception;
+
+public class FileReader {
+
+	public static void main(String[] args) {
+		FileReader f=new FileReader("abc.txt");
+
+	}
+
+}

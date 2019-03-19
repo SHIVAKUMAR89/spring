@@ -1,0 +1,16 @@
+package Exception;
+
+public class ReadExp {
+
+		public static void main(String[] args) {
+			try{
+				FileReader f = new FileReader("abc.txt");
+				
+			}
+	catch(Exception e) {
+		System.out.println("not found");
+	}
+		}
+
+	}
+

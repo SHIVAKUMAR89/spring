@@ -1,0 +1,26 @@
+package com.spring;
+
+	import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+
+
+
+
+	@Controller  
+	
+	public class HelloController { 
+		@RequestMapping("/helloword")
+		 public String display11()) {
+			 return "hello";
+			
+		}
+	@RequestMapping("/")
+	 public String display(@RequestParam("username") String name, Model m){  
+        String msg="you entered"+name;
+		return "helloworld"+msg;  
+    }
+
+	}  
